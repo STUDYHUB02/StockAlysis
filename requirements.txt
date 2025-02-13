@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+numpy
+panda
+plotly
+scipy
+seaborn
+statsmodels
+streamlit
+yfinance
